@@ -1,5 +1,7 @@
 # Servidor Linux na AWS (EC2)
 
+**EM DESENVOLVIMENTO**
+
 Este projeto demonstra a criação e configuração de um servidor
 Linux na AWS utilizando EC2, aplicando boas práticas de segurança
 e acesso remoto.
